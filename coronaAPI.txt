@@ -1,0 +1,6 @@
+** CORONA TRACKER APP **
+
+1.you can download json formatter extension into chromne to beautify the json API data
+2. dependencies .. axios react-chartjs-2 react-countup classnames @material-ui/core chart.js
+3. module restrict the scope to other files hence the properties associated with module folder are not applied to other files
+  
